@@ -1,8 +1,7 @@
 # weather-Forecasting-ML-project-Linear-regression-
 #Comparing the maximum temperature and minimum temperature . This project would predict the max temperature.
 
-
-
+# importing the library
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
